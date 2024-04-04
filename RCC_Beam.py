@@ -94,3 +94,4 @@ class RCCBeam:
 beam = RCCBeam(fck=20, fy=415, b=250, h=500, Mu=120)
 print(beam.Mu_lim)
 print(beam.calculate_Ast_req())
+print("hello")
